@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ABACore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Libraries/ABACore_2.4/ABACore/ABACore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Libraries/ABACore_2.4/ABACore/ABACore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Libraries/ABACore_2.4/ABACore/ABACore.jar!/" />
+    </SOURCES>
+  </library>
+</component>
